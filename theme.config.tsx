@@ -2,16 +2,16 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>XAIO DAO</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/XIAOAssembly/xaio-dao',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://discord.gg/HgMH9xJM',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/XIAOAssembly/xaio-dao',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'XAIO DAO',
   },
 }
 

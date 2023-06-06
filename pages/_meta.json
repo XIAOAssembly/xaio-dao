@@ -1,15 +1,20 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "Home",
+
+  
   "about": {
     "title": "About",
     "type": "page"
   },
+  "community-guidelines": {
+    "title": "Community Guidelines",
+    "type": "page"
+  },
+  "whitepaper": "The White Paper",
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://discord.gg/HgMH9xJM",
     "newWindow": true
   }
 }
