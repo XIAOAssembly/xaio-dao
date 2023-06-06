@@ -2,15 +2,15 @@ import React from 'react'
 import { DocsThemeConfig, useConfig } from 'nextra-theme-docs'
 import { useRouter } from 'next/router'
 
+
+
+
+
 const config: DocsThemeConfig = {
-  useNextSeoProps() {
-    const { asPath } = useRouter()
-    if (asPath !== '/') {
-      return {
-        titleTemplate: '%s – XAIO DAO',
-      }
-    }
-  }, 
+
+
+ 
+
   head:() => {
     const { asPath, defaultLocale, locale } = useRouter()
     const { frontMatter } = useConfig()
