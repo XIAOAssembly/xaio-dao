@@ -1,7 +1,7 @@
 {
-  "name": "xiao-dao",
+  "name": "xaio-dao",
   "version": "0.0.1",
-  "description": "xiao-dao website",
+  "description": "xaio-dao website",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
